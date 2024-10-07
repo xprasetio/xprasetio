@@ -31,5 +31,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
-
-![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQH4-w3pf8lPfQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698727150007?e=1733961600&v=beta&t=OSboKOUsZqNmkkpEIi7xaiF3d_KT5YhWSAvaufROSuE)
