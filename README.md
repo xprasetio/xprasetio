@@ -2,7 +2,7 @@
 
 ### A Backend Engineer from Indonesia
 
-- 🔧 I specialize in **PHP**, **Ruby**, **Golang**, and frameworks like **Laravel** and **Rails**.
+- 🔧 I specialize in **PHP**, **Ruby**, **Golang**, and frameworks like **Gin** **Laravel** and **Rails**.
 - 🌱 I'm currently exploring advanced system architecture and performance optimization.
 - 🧠 Ask me about **Backend Systems**, **APIs**, and **Cloud Integrations**.
 - 📫 How to reach me: **xprasetio@gmail.com**
