@@ -1,6 +1,7 @@
 ![xprasetio](images/github-header-image.png)
 
-- 🔧 I specialize in**Golang**  **PHP**, **Ruby**, **Golang**, and frameworks like **Gin** **Laravel** and **Rails**.
+- 🔧 I specialize in **Golang**  **PHP**, **Ruby**, **Golang**, and frameworks like **Gin** **Laravel** and **Rails**.
+- 🔧 I Know in **ReactJs**  **VueJS**.
 - 🌱 I'm currently exploring advanced system architecture and performance optimization.
 - 🧠 Ask me about **Backend Systems**, **APIs**, and **Cloud Integrations**.
 - 📫 How to reach me: **xprasetio@gmail.com**
