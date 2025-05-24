@@ -1,8 +1,6 @@
-# Hi 👋, I'm Eko Prasetio
+![xprasetio](images/github-header-image.png)
 
-### A Backend Engineer from Indonesia
-
-- 🔧 I specialize in **PHP**, **Ruby**, **Golang**, and frameworks like **Gin** **Laravel** and **Rails**.
+- 🔧 I specialize in**Golang**  **PHP**, **Ruby**, **Golang**, and frameworks like **Gin** **Laravel** and **Rails**.
 - 🌱 I'm currently exploring advanced system architecture and performance optimization.
 - 🧠 Ask me about **Backend Systems**, **APIs**, and **Cloud Integrations**.
 - 📫 How to reach me: **xprasetio@gmail.com**
@@ -32,3 +30,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
+
+### Play With Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xprasetio/xprasetio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xprasetio/xprasetio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xprasetio/xprasetio/output/pacman-contribution-graph.svg">
+</picture>
+
+###
