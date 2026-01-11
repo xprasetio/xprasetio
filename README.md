@@ -1,7 +1,6 @@
 ![xprasetio](images/github-header-image.png)
-
-- 🔧 I specialize in **Golang** , **Ruby On Rails**, **PHP**, and frameworks like **Gin** **Echo** **Laravel** and **Rails**.
-- 🔧 I Knowing in **ReactJS**  **VueJS**.
+- 🔧 I’m a Backend Engineer with extensive experience building and maintaining scalable server-side applications. I have worked with **PHP (Laravel)** , **Ruby on Rails**, and **Golang** to develop APIs, business logic, and backend systems that support both web and mobile applications. I collaborate closely with frontend, DevOps, and product teams to deliver reliable, maintainable, and high-performance solutions for startups and enterprise clients..
+- - 🔧 I Knowing in **ReactJS**  **VueJS**.
 - 🌱 I'm currently exploring advanced system architecture and performance optimization.
 - 🧠 Ask me about **Backend Systems**, **APIs**, and **Cloud Integrations**.
 - 📫 How to reach me: **xprasetio@gmail.com**
