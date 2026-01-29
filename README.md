@@ -1,5 +1,5 @@
 ![xprasetio](images/github-header-image.png)
-- 🔧 I’m a Backend Engineer with extensive experience building and maintaining scalable server-side applications. I have worked with **PHP (Laravel)** , **Ruby on Rails**, and **Golang** to develop APIs, business logic, and backend systems that support both web and mobile applications. I collaborate closely with frontend, DevOps, and product teams to deliver reliable, maintainable, and high-performance solutions for startups and enterprise clients..
+- 🔧 I’m a Backend Engineer with extensive experience building and maintaining scalable server-side applications. I have worked with **Golang**, **PHP (Laravel)** and **Ruby on Rails** to develop APIs, business logic, and backend systems that support both web and mobile applications. I collaborate closely with frontend, DevOps, and product teams to deliver reliable, maintainable, and high-performance solutions for startups and enterprise clients..
 - - 🔧 I Knowing in **ReactJS**  **VueJS**.
 - 🌱 I'm currently exploring advanced system architecture and performance optimization.
 - 🧠 Ask me about **Backend Systems**, **APIs**, and **Cloud Integrations**.
